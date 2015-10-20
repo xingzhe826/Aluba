@@ -1,0 +1,343 @@
+{
+  "ID": "3ce9dbc4-a912-4583-a746-ffac437e54fb",
+  "Version": "2.3.2.3",
+  "Name": "GameScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 8,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "imgs/bgGS.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "ActionTag": 430719617,
+            "Size": {
+              "X": 480.0,
+              "Y": 800.0
+            },
+            "Name": "bgGS",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bgTimer.png",
+              "Plist": "plist/gs.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 729.04
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9113
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 114.0004,
+            "RightMargin": 113.9996,
+            "TopMargin": 4.998,
+            "BottomMargin": 663.002,
+            "Tag": 1,
+            "ActionTag": 840748005,
+            "Size": {
+              "X": 252.0,
+              "Y": 132.0
+            },
+            "Name": "bgTimer",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "reTime.png",
+              "Plist": "plist/gs.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "reTime.png",
+              "Plist": "plist/gs.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "reTime.png",
+              "Plist": "plist/gs.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 9,
+            "Scale9Width": 57,
+            "Scale9Height": 11,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 692.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.865
+            },
+            "PreSize": {
+              "X": 0.1813,
+              "Y": 0.0362
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 196.5,
+            "RightMargin": 196.5,
+            "TopMargin": 93.5,
+            "BottomMargin": 677.5,
+            "Tag": 2,
+            "ActionTag": -1365032527,
+            "Size": {
+              "X": 87.0,
+              "Y": 29.0
+            },
+            "Name": "reTime",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 100,
+            "LabelText": "00:00",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/Aluba.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 754.8
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9435
+            },
+            "PreSize": {
+              "X": 0.075,
+              "Y": 0.0288
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 153.0,
+            "RightMargin": 153.0,
+            "TopMargin": -12.3,
+            "BottomMargin": 697.3,
+            "Tag": 3,
+            "ActionTag": -75778366,
+            "Size": {
+              "X": 174.0,
+              "Y": 115.0
+            },
+            "Name": "score",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "frog.png",
+              "Plist": "plist/gs.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.58
+            },
+            "Position": {
+              "X": 240.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 199.0,
+            "RightMargin": 199.0,
+            "TopMargin": 361.36,
+            "BottomMargin": 346.64,
+            "Tag": 4,
+            "ActionTag": -491670516,
+            "Size": {
+              "X": 150.0,
+              "Y": 180.0
+            },
+            "Name": "frog",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 240.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 240.0,
+            "RightMargin": 240.0,
+            "TopMargin": 400.0,
+            "BottomMargin": 400.0,
+            "Tag": 5,
+            "ActionTag": 909965566,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "gmNode",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 480.0,
+          "Y": 800.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "fonts/Aluba.ttf",
+        "imgs/bgGS.png",
+        "plist/gs.plist",
+        "plist/gs.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

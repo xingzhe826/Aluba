@@ -1,0 +1,219 @@
+{
+  "ID": "c422478e-02b9-4226-ad34-945fcca13699",
+  "Version": "2.3.2.3",
+  "Name": "shape4",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 2,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bar.png",
+              "Plist": "plist/gs.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0027,
+              "Y": 498.6422
+            },
+            "Scale": {
+              "ScaleX": 1.58,
+              "ScaleY": 1.2
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -189.9973,
+            "RightMargin": -190.0027,
+            "TopMargin": -510.6422,
+            "BottomMargin": 486.6422,
+            "Tag": 120,
+            "ActionTag": -1896084273,
+            "Size": {
+              "X": 380.0,
+              "Y": 24.0
+            },
+            "Name": "bar0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bar.png",
+              "Plist": "plist/gs.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 430.001,
+              "Y": 248.4371
+            },
+            "Scale": {
+              "ScaleX": 1.58,
+              "ScaleY": 1.2
+            },
+            "RotationSkewX": 60.0066,
+            "RotationSkewY": 60.0098,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 240.001,
+            "RightMargin": -620.001,
+            "TopMargin": -260.4371,
+            "BottomMargin": 236.4371,
+            "Tag": 121,
+            "ActionTag": -1244187181,
+            "Size": {
+              "X": 380.0,
+              "Y": 24.0
+            },
+            "Name": "bar1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bar.png",
+              "Plist": "plist/gs.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0025,
+              "Y": -497.5446
+            },
+            "Scale": {
+              "ScaleX": 1.58,
+              "ScaleY": 1.2
+            },
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -189.9975,
+            "RightMargin": -190.0025,
+            "TopMargin": 485.5446,
+            "BottomMargin": -509.5446,
+            "Tag": 123,
+            "ActionTag": 168283616,
+            "Size": {
+              "X": 380.0,
+              "Y": 24.0
+            },
+            "Name": "bar3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bar.png",
+              "Plist": "plist/gs.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -430.4896,
+              "Y": 248.8572
+            },
+            "Scale": {
+              "ScaleX": 1.58,
+              "ScaleY": 1.2
+            },
+            "RotationSkewX": 299.9934,
+            "RotationSkewY": 299.9902,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -620.4896,
+            "RightMargin": 240.4896,
+            "TopMargin": -260.8572,
+            "BottomMargin": 236.8572,
+            "Tag": 125,
+            "ActionTag": -894399191,
+            "Size": {
+              "X": 380.0,
+              "Y": 24.0
+            },
+            "Name": "bar5",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "plist/gs.plist",
+        "plist/gs.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}
